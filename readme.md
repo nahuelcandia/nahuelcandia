@@ -1,30 +1,9 @@
-<svg fill="none" viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-@keyframes bounce {
-  0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
-  3%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
-  5%   { transform: scale(1.1,  .9)  translateY(5px)   skew(0deg,  0deg); }
-  12%  { transform: scale(.9,   1.1) translateY(-70px) skew(25deg, 5deg); }
-  13%  { transform: scale(.9,   1.1) translateY(-70px) skew(25deg, 5deg); }
-  20%  { transform: scale(1.05, .95) translateY(0)     skew(0deg,  0deg); }
-  22%  { transform: scale(1,    1)   translateY(-7px)  skew(0deg,  0deg); }
-  27%  { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
-  100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
-}
-h1 {
-  width: 120px;
-  line-height: 20px;
-  padding-top: 70px;
-  text-align: center;
-  font: 400 16px/1.5 Helvetica ,Arial ,sans-serif;
-  color: rgb(52, 73, 94);
-  transform-origin: bottom;
-  animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
-}
-      </style>
-      <h1>Hello, world</h1>
-    </div>
-  </foreignObject>
-</svg>
+#About Me
+
+I am a solutions architect from Buenos Aires, Argentina. I have been in the software industry for over 8 years, finalist in several software competitions and become an entrepreneur by the age of 20 years old. Certified in Disciplined Entrepreneurship and New Ventures by the Massachusetts Institute of Technology (MIT), and currently Founder of Rebill, a recurring billing and payments integrator for SMEs and Enterprises.
+
+In the past, I co-founded Shovel Apps, a Silicon Valley startup accelerated by Google for Entrepreneurs and backed by investors in the bay area and Latin America, aimed to help merchants to easily build e-commerce mobile applications.
+
+In my free time, I enjoy advising new companies on their product-market-fit discovery, road mapping, team formation and leading techniques. Also, I love travelling around the world to learn about tech trends, innovation, and culture.
+
+If you look forward to making your product ready to scale globally or find new ways on how to make your ideas happen, just sent me an email – I am always down for a virtual coffee. :)
