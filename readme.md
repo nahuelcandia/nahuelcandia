@@ -1,6 +1,6 @@
-#About Me
-
-I am a solutions architect from Buenos Aires, Argentina. I have been in the software industry for over 8 years, finalist in several software competitions and become an entrepreneur by the age of 20 years old. Certified in Disciplined Entrepreneurship and New Ventures by the Massachusetts Institute of Technology (MIT), and currently Founder of Rebill, a recurring billing and payments integrator for SMEs and Enterprises.
+About Me
+--------
+I am a Cloud Solutions Architect from Buenos Aires, Argentina. I have been in the software industry for over 8 years, finalist in several software competitions and become an entrepreneur by the age of 20 years old. Certified in Disciplined Entrepreneurship and New Ventures by the Massachusetts Institute of Technology (MIT), and currently Founder of Rebill, a recurring billing and payments integrator for SMEs and Enterprises.
 
 In the past, I co-founded Shovel Apps, a Silicon Valley startup accelerated by Google for Entrepreneurs and backed by investors in the bay area and Latin America, aimed to help merchants to easily build e-commerce mobile applications.
 
